@@ -55,8 +55,8 @@ function initMap() {
   ];
 
   // Create markers.
-  /*
   for (let i = 0; i < features.length; i++) {
+    /*
     const icon1 = {
       url: features[i].icon, // url
       scaledSize: new google.maps.Size(50, 50), // scaled size
